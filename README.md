@@ -22,12 +22,17 @@ python3 chatbot.ipynb
 Results
 
 Query > happy birthday have a nice day
+
  > thank you so much
  > thank you
  > thank bro
  > thanks so much
  > thank babe i appreciate it
+ 
 Query > who are you
+
  > i am just an artificial intelligence
+ 
 Query > ok bye
+
  > why? will u die
