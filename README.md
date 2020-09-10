@@ -2,24 +2,24 @@
 
 This is a 200 lines implementation of Chatterbot Corpus Chatbot, please read the following references before you read the code:
 
-Practical-Seq2Seq
+## Practical-Seq2Seq
+
 The Unreasonable Effectiveness of Recurrent Neural Networks
 Understanding LSTM Networks (optional)
 
-Prerequisites
+## Prerequisites
 
 Python 3
 TensorFlow >= 2.0
 TensorLayer >= 2.0
 
 
-Model
-
+## Model
 
 Training
 python3 chatbot.ipynb
 
-Results
+## Results
 
 Query > happy birthday have a nice day
 
