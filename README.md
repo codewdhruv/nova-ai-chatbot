@@ -1,4 +1,4 @@
-# AI ChatBot Build Status
+# Nova AI ChatBot Build Status
 
 This is a 200 lines implementation of Chatterbot Corpus Chatbot, please read the following references before you read the code:
 
