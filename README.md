@@ -7,6 +7,9 @@ This is a 200 lines implementation of Chatterbot Corpus Chatbot, please read the
 The Unreasonable Effectiveness of Recurrent Neural Networks
 Understanding LSTM Networks (optional)
 
+Core module : https://github.com/gunthercox/chatterbot-corpus
+
+
 ## Prerequisites
 
 Python 3
