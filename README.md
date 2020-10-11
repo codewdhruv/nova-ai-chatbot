@@ -10,19 +10,19 @@ Understanding LSTM Networks (optional)
 Core module : https://github.com/gunthercox/chatterbot-corpus
 
 
-## Prerequisites
+## Prerequisites:
 
 Python 3
 TensorFlow >= 2.0
 TensorLayer >= 2.0
 
 
-## Model
+## Model:
 
 Training
 python3 chatbot.ipynb
 
-## Results
+## Results:
 
 Query > happy birthday have a nice day
 
